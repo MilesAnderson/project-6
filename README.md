@@ -1,3 +1,7 @@
+Author: Miles Anderson
+Email: mander20@uoregon.edu
+Description: This program provides a website that acts as a brevets time calculator. Along with the ability to save and fetch the data gotten from the website using MongoEngine and a RESTful API.
+
 # UOCIS322 - Project 6 #
 Brevet time calculator with MongoDB, and a RESTful API!
 
